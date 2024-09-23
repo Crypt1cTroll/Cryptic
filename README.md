@@ -1,4 +1,4 @@
 🧑‍💻 Script HUB
 
 ##
-<tab><tab>code/text here
+<tab><tab>code/slay
