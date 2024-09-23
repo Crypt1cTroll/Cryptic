@@ -6,5 +6,5 @@
 This scripts are all made by me
 
 ```js
-loadstring(game:HttpGet(('')))()'
+loadstring(game:HttpGet(('')))()
 ```
