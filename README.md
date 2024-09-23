@@ -1,4 +1,4 @@
 🧑‍💻 Script HUB
 
 ##
-<tab><tab>code/slay
+<tab><tab>how to make smth copyayble in github
